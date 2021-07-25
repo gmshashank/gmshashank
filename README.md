@@ -3,7 +3,7 @@
     <h2> Programmer | Learner </h2>
 </div>
 
-- 🔭 I’m currently working on       --> <b>Deep Learning (GANs)</b>
+- 🔭 I’m currently working on       --> <b>Geometric Deep Learning</b>
 
 - 🌱 I’m currently learning         --> <b>Deep Learning, Cloud Technologies - Azure/AWS </b>
 
