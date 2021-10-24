@@ -15,5 +15,7 @@
 
 - ⚡ Programming                    --> <b>Python | C++ | C#</b>
 
+- 📫 Please find my updated resume: --> [Resume](https://gmshashank.github.io/resume/) &ensp;
+
 - 📫 How to reach me: --> [Gmail](gmshashank@gmail.com/) &ensp;|&ensp; [LinkedIn](https://www.linkedin.com/in/shashankmewada/) &ensp;|&ensp; [Twitter](https://twitter.com/ShashankMewada/)<br>
 
