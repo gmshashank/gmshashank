@@ -3,15 +3,13 @@
     <h2> Programmer | Learner </h2>
 </div>
 
-- 🔭 I’m currently working on       --> <b>Geometric Deep Learning</b>
-
-- 🌱 I’m currently learning         --> <b>Deep Learning, Cloud Technologies - Azure/AWS </b>
+- 🔭 I’m currently working on       --> <b>Geometric Deep Learning, Gaussian Processes</b>
 
 - 👯 I’m looking to collaborate on  --> <b>Machine Learning, Deep Learning</b>
 
 - 🤔 I’m looking for help with      --> <b>Graph Neural Networks</b>
 
-- ⚡ Technologies                   --> <b>PyTorch | OpenCV</b>
+- 🌱 Technologies                   --> <b>PyTorch | AWS | OpenCV</b>
 
 - ⚡ Programming                    --> <b>Python | C++ | C#</b>
 
